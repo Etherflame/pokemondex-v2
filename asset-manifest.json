@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemondex-v2/static/css/main.edeac7e6.css",
+    "main.js": "/pokemondex-v2/static/js/main.bdf0732e.js",
+    "index.html": "/pokemondex-v2/index.html",
+    "main.edeac7e6.css.map": "/pokemondex-v2/static/css/main.edeac7e6.css.map",
+    "main.bdf0732e.js.map": "/pokemondex-v2/static/js/main.bdf0732e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edeac7e6.css",
+    "static/js/main.bdf0732e.js"
+  ]
+}
